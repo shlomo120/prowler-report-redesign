@@ -1,10 +1,12 @@
 # Prowler Report Redesign
 
-[English](#english) | [עברית](#עברית)
+**[Live demo](https://shlomo120.github.io/prowler-report-redesign/prowler_report_redesign.html)** · [English](#english) | [עברית](#עברית)
 
 ## English
 
 An offline redesign of [Prowler](https://github.com/prowler-cloud/prowler) HTML reports: an executive dashboard, dark/light mode, search, filters, sorting, paging, expandable details and CSV export, all in one standalone HTML file.
+
+**View the demo report online:** https://shlomo120.github.io/prowler-report-redesign/prowler_report_redesign.html
 
 ### Files
 
@@ -32,6 +34,8 @@ Open the output HTML file in any browser.
 ## עברית
 
 עיצוב מחדש של דוחות ה-HTML של [Prowler](https://github.com/prowler-cloud/prowler), שעובד גם ללא חיבור לאינטרנט. הדוח כולל דשבורד מנהלים, מצב כהה/בהיר, חיפוש, מסננים, מיון, דפדוף, פירוט מורחב לכל ממצא וייצוא ל-CSV, והכול בקובץ HTML עצמאי אחד.
+
+**צפייה בדוח לדוגמה אונליין:** https://shlomo120.github.io/prowler-report-redesign/prowler_report_redesign.html
 
 ### קבצים
 
